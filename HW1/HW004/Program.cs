@@ -3,9 +3,9 @@ Console.Write("Выбранный интервал от 1 до ");
 Console.WriteLine(N);
 Console.Write("Четные числа: ");
 int a = 1;
-while (a<=N);
+while (a<=N)
 {
-    if(a % 2 == 0);
+    if(a % 2 == 0)
     {
         Console.WriteLine(a);
     }
