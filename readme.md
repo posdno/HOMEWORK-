@@ -13,3 +13,17 @@
 ## Задача 4
 Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 
 ![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW1/HW004/blok4.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW1/HW004/Program.cs)
+
+## Задача 5
+Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ СТРОКИ.
+![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW005/blok5.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW005/Program.cs)
+
+## Задача 6
+Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ СТРОКИ.
+![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW006/blok6.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW006/Program.cs)
+
+## Задача 7
+Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW007/blok7.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW007/Program.cs)
