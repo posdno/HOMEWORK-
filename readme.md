@@ -27,3 +27,15 @@
 ## Задача 7
 Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 ![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW007/blok7.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW2/HW007/Program.cs)
+
+## Задача 8
+Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+![Блок-схема](https://github.com/posdno/HOMEWORK-/blob/main/HW3/HW008/blok8.drawio.png) | [Код](https://github.com/posdno/HOMEWORK-/blob/main/HW3/HW008/Program.cs)
+
+## Задача 9
+Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+![Код](https://github.com/posdno/HOMEWORK-/blob/main/HW3/HW009/Program.cs)
+
+## Задача 10
+Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+![Код](https://github.com/posdno/HOMEWORK-/blob/main/HW3/HW010/Program.cs)
